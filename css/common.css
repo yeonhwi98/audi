@@ -1,0 +1,21 @@
+
+.wrap {
+    max-width: 1920;
+    margin: 0 auto;
+    overflow-y: hidden;
+}
+
+header, section, footer {
+    width: 100%;
+    float: left;
+}
+
+.in_header, .container {
+    max-width: 1600px;
+    width: 100%;
+}
+
+.container {
+    width: 1600px;
+    margin: 0 auto;
+}
